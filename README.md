@@ -12,7 +12,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohankmr414@gmail.com)
 
 ## What I'm upto right now
-* I'm currently trying to contribute to [argo-workflows](https://github.com/argoproj/argo-workflows).
+* I'm currently trying to contribute to <a data-hovercard-type="repository" data-hovercard-url="/argoproj/argo-workflows/hovercard" href="/argoproj/argo-workflows">argoproj/argo-workflows</a>.
 * I’m currently working as a DevOps Intern at [Machaao Inc](https://machaao.com/).
 
 ## Tools I work with
