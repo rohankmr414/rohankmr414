@@ -16,7 +16,7 @@
 * I’m currently working as a DevOps Intern at [Machaao Inc](https://machaao.com/).
 
 ## Tools I work with
-<img src="https://img.icons8.com/color/40/000000/golang.png"/> <img src="https://img.icons8.com/color/40/000000/python--v1.png"/> <img src="https://img.icons8.com/color/40/000000/javascript--v1.png"/> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/> <img src="https://img.icons8.com/small/40/000000/nodejs.png"/> <img src="https://img.icons8.com/fluency/40/000000/docker.png"/> <img src="https://img.icons8.com/color/40/000000/kubernetes.png"/> <img src="https://img.icons8.com/color/40/000000/git.png"/> <img src="https://img.icons8.com/color/40/000000/linux--v1.png"/>
+<img src="https://img.icons8.com/color/40/000000/golang.png"/> <img src="https://img.icons8.com/color/40/000000/python--v1.png"/> <img src="https://img.icons8.com/color/40/000000/javascript--v1.png"/> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/> <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> <img src="https://img.icons8.com/fluency/40/000000/docker.png"/> <img src="https://img.icons8.com/color/40/000000/kubernetes.png"/> <img src="https://img.icons8.com/color/40/000000/git.png"/> <img src="https://img.icons8.com/color/40/000000/linux--v1.png"/>
 <br>
 <br>
 ![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohankmr414&theme=tokyonight&show_icons=true&count_private=true)
