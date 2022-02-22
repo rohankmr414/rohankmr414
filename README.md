@@ -1,4 +1,4 @@
-<h2> Hi, I'm Rohan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2><img  align='right' src="https://i.ibb.co/4WBFjDW/coffee-bitmoji.png">
+<h2> Hi, I'm Rohan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 <p>
   I am a CSE Junior at KIIT, Bhubaneshwar. I started programming around 3 years ago when I joined college and have been trying to improve ever since. I am mostly interested in Systems Engineering and Backend Development. Currently learning more of Golang and Linux internals to understand Docker and Kubernetes.
