@@ -13,7 +13,7 @@
 
 
 ## What I'm upto right now
-* I'm currently trying to contribute to <a data-hovercard-type="repository" data-hovercard-url="/argoproj/argo-workflows/hovercard" href="https://github.com/argoproj/argo-workflows">argoproj/argo-workflows</a>.
+* I'm currently contributing to <a data-hovercard-type="repository" data-hovercard-url="/argoproj/argo-workflows/hovercard" href="https://github.com/argoproj/argo-workflows">argoproj/argo-workflows</a>.
 * I’m currently working as a DevOps Intern at [Machaao Inc](https://machaao.com/).
 
 ## Tools I work with
