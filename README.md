@@ -1,4 +1,4 @@
-<img align="left" src="https://i.ibb.co/wQYm96L/crow.png">
+<img align="left" src="crow.png">
 
 ### Hey!
 
