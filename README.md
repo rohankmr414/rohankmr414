@@ -4,10 +4,10 @@
 
 I'm someone who likes to solve problems by writing code.
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohankmr414/)](https://www.linkedin.com/in/rohankmr414/)
-[![Twitter](https://img.shields.io/badge/-Twitter-000000?style=flat&labelColor=000000&logo=twitter&logoColor=white&link=https://twitter.com/rohankmr414)](https://twitter.com/rohankmr414)
-[![Steam](https://img.shields.io/badge/-Steam-000000?style=flat&labelColor=000000&logo=steam&link=https://steamcommunity.com/id/po1ntdexter/)](https://steamcommunity.com/id/po1ntdexter/)
-[![Gmail](https://img.shields.io/badge/-Email-000000?style=flat&logo=Gmail&logoColor=white&link=mailto:rohankmr414@gmail.com)](mailto:rohankmr414@gmail.com)
+[![Linkedin](https://img.icons8.com/ios-glyphs/30/000000/linkedin.png)](https://www.linkedin.com/in/rohankmr414/)
+[![Twitter](https://img.icons8.com/ios-glyphs/30/000000/twitter--v1.png)](https://twitter.com/rohankmr414)
+[![Steam](https://img.icons8.com/ios-glyphs/30/000000/steam.png)](https://steamcommunity.com/id/po1ntdexter/)
+[![Gmail](https://img.icons8.com/material-sharp/30/000000/mail.png)](mailto:rohankmr414@gmail.com)
 
 <br>
 
