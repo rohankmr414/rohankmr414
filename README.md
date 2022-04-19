@@ -4,10 +4,10 @@
 
 I'm someone who likes to solve problems by writing code.
 
-[![Linkedin](https://img.icons8.com/ios-glyphs/30/000000/linkedin.png)](https://www.linkedin.com/in/rohankmr414/)
-[![Twitter](https://img.icons8.com/ios-glyphs/30/000000/twitter--v1.png)](https://twitter.com/rohankmr414)
-[![Steam](https://img.icons8.com/ios-glyphs/30/000000/steam.png)](https://steamcommunity.com/id/po1ntdexter/)
-[![Gmail](https://img.icons8.com/material-sharp/30/000000/mail.png)](mailto:rohankmr414@gmail.com)
+[![Linkedin](https://img.icons8.com/ios-glyphs/25/000000/linkedin.png)](https://www.linkedin.com/in/rohankmr414/)
+[![Twitter](https://img.icons8.com/ios-glyphs/25/000000/twitter--v1.png)](https://twitter.com/rohankmr414)
+[![Steam](https://img.icons8.com/ios-glyphs/25/000000/steam.png)](https://steamcommunity.com/id/po1ntdexter/)
+[![Gmail](https://img.icons8.com/material-sharp/25/000000/mail.png)](mailto:rohankmr414@gmail.com)
 
 <br>
 
