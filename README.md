@@ -1,23 +1,17 @@
-<h2> Hi, I'm Rohan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<img align="left" src="https://i.ibb.co/wQYm96L/crow.png">
 
-<p>
-  I am a CSE Junior at KIIT, Bhubaneshwar. I started programming around 3 years ago when I joined college and have been trying to improve ever since. I am mostly interested in Systems Engineering and Backend Development. Currently learning more of Golang and Linux internals to understand Docker and Kubernetes.
-<p/>
+### Hey!
 
+I'm someone who likes to solve problems by writing code.
 
-
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohankmr414/)](https://www.linkedin.com/in/rohankmr414/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rohankmr414)](https://twitter.com/rohankmr414)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohankmr414/)](https://www.linkedin.com/in/rohankmr414/)
+[![Twitter](https://img.shields.io/badge/-Twitter-000000?style=flat&labelColor=000000&logo=twitter&logoColor=white&link=https://twitter.com/rohankmr414)](https://twitter.com/rohankmr414)
 [![Steam](https://img.shields.io/badge/-Steam-000000?style=flat&labelColor=000000&logo=steam&link=https://steamcommunity.com/id/po1ntdexter/)](https://steamcommunity.com/id/po1ntdexter/)
-[![Gmail](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rohankmr414@gmail.com)](mailto:rohankmr414@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Email-000000?style=flat&logo=Gmail&logoColor=white&link=mailto:rohankmr414@gmail.com)](mailto:rohankmr414@gmail.com)
 
-
-## What I'm upto right now
-* I'm currently contributing to <a data-hovercard-type="repository" data-hovercard-url="/argoproj/argo-workflows/hovercard" href="https://github.com/argoproj/argo-workflows">argoproj/argo-workflows</a>.
-* I’m currently working as a DevOps Intern at [Machaao Inc](https://machaao.com/).
-
-## Tools I work with
-<img src="https://img.icons8.com/color/40/000000/golang.png"/> <img src="https://img.icons8.com/color/40/000000/python--v1.png"/> <img src="https://img.icons8.com/color/40/000000/javascript--v1.png"/> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/> <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> <img src="https://img.icons8.com/fluency/40/000000/docker.png"/> <img src="https://img.icons8.com/color/40/000000/kubernetes.png"/> <img src="https://img.icons8.com/color/40/000000/git.png"/> <img src="https://img.icons8.com/color/40/000000/linux--v1.png"/>
 <br>
-<br>
-![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohankmr414&theme=tokyonight&show_icons=true&count_private=true)
+
+
+I am a pre-final year student at [KIIT, Bhubaneshwar](https://kiit.ac.in/). I am mostly interested in Systems Engineering and Backend Development. Currently I'm learning more of Golang and Linux internals to understand Docker and Kubernetes. I'm also actively contributing to [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows).
+
+**~** [_rohankumar.me_](https://rohankumar.me)
